@@ -1267,7 +1267,7 @@
                 "year": 1997,
                 "loc": "New Jersey, USA"
             },
-            "college": "Toledo | ",
+            "college": "Toledo",
             "contract": {
                 "amount": 1000,
                 "exp": 2023
@@ -40020,7 +40020,7 @@
                 "year": 1996,
                 "loc": "Texas, USA"
             },
-            "college": "UCLA | ",
+            "college": "UCLA",
             "contract": {
                 "amount": 1000,
                 "exp": 2023
@@ -50636,7 +50636,7 @@
                 "year": 1990,
                 "loc": "California, USA"
             },
-            "college": "Wisconsin | ",
+            "college": "Wisconsin",
             "contract": {
                 "amount": 1000,
                 "exp": 2024
@@ -77723,7 +77723,7 @@
                 2
             ],
             "season": 2022,
-            "eid": 208
+            "eid": 209
         },
         {
             "type": "freeAgent",
@@ -77735,7 +77735,7 @@
                 2
             ],
             "season": 2022,
-            "eid": 208
+            "eid": 210
         },
         {
             "type": "freeAgent",
@@ -77747,7 +77747,7 @@
                 2
             ],
             "season": 2022,
-            "eid": 208
+            "eid": 211
         },
         {
             "type": "freeAgent",
@@ -77759,7 +77759,7 @@
                 7
             ],
             "season": 2022,
-            "eid": 208
+            "eid": 212
         },
         {
             "type": "freeAgent",
@@ -77771,7 +77771,7 @@
                 9
             ],
             "season": 2022,
-            "eid": 208
+            "eid": 213
         },
         {
             "type": "freeAgent",
@@ -77783,7 +77783,7 @@
                 7
             ],
             "season": 2022,
-            "eid": 208
+            "eid": 214
         },
         {
             "type": "freeAgent",
@@ -77795,7 +77795,7 @@
                 2
             ],
             "season": 2022,
-            "eid": 208
+            "eid": 215
         },
         {
             "type": "freeAgent",
@@ -77807,7 +77807,7 @@
                 4
             ],
             "season": 2022,
-            "eid": 208
+            "eid": 216
         }
     ],
     "games": [
