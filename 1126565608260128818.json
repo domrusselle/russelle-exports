@@ -77700,6 +77700,114 @@
             "score": 9,
             "season": 2022,
             "eid": 207
+        },
+        {
+            "type": "freeAgent",
+            "text": "The Mexico City Aztecs signed Johnny Oatis for $1.0M/year through 2023",
+            "pids": [
+                3
+            ],
+            "tids": [
+                4
+            ],
+            "season": 2022,
+            "eid": 208
+        },
+        {
+            "type": "freeAgent",
+            "text": "The Las Vegas Blue Chips signed Johnny Cole for $30.0M/year through 2025 with TO",
+            "pids": [
+                14
+            ],
+            "tids": [
+                2
+            ],
+            "season": 2022,
+            "eid": 208
+        },
+        {
+            "type": "freeAgent",
+            "text": "The Las Vegas Blue Chips signed Davis Orne for $35.0M/year through 2026 with PO",
+            "pids": [
+                51
+            ],
+            "tids": [
+                2
+            ],
+            "season": 2022,
+            "eid": 208
+        },
+        {
+            "type": "freeAgent",
+            "text": "The Las Vegas Blue Chips signed Tavon Griffith for $8.0M/year through 2025 using MLE",
+            "pids": [
+                57
+            ],
+            "tids": [
+                2
+            ],
+            "season": 2022,
+            "eid": 208
+        },
+        {
+            "type": "freeAgent",
+            "text": "The San Diego Pandas signed Amadeo Ivy for $8.0M/year through 2024 using MLE",
+            "pids": [
+                60
+            ],
+            "tids": [
+                7
+            ],
+            "season": 2022,
+            "eid": 208
+        },
+        {
+            "type": "freeAgent",
+            "text": "The St. Louis Spirits signed Skylar Payne for $1.0M/year through 2023 with PO",
+            "pids": [
+                85
+            ],
+            "tids": [
+                9
+            ],
+            "season": 2022,
+            "eid": 208
+        },
+        {
+            "type": "freeAgent",
+            "text": "The San Diego Pandas signed Evan Pace for $1.0M/year through 2023",
+            "pids": [
+                104
+            ],
+            "tids": [
+                7
+            ],
+            "season": 2022,
+            "eid": 208
+        },
+        {
+            "type": "freeAgent",
+            "text": "The Las Vegas Blue Chips signed Eddie Verner for $1.0M/year through 2023 with TO",
+            "pids": [
+                138
+            ],
+            "tids": [
+                2
+            ],
+            "season": 2022,
+            "eid": 208
+        },
+        {
+            "type": "freeAgent",
+            "text": "The Mexico City Aztecs signed Marcus Patterson for $1.0M/year through 2024",
+            "pids": [
+                142
+            ],
+            "tids": [
+                4
+            ],
+            "season": 2022,
+            "eid": 208
         }
     ],
     "games": [
