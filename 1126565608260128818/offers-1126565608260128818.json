@@ -18,5 +18,15 @@
             "priotity": 2,
             "bonus": null
         }
+    ],
+    "Alec Burks": [
+        {
+            "team": "WAS",
+            "money": 4000.0,
+            "through": 2022,
+            "score": 19.324,
+            "priotity": 3,
+            "bonus": "PO"
+        }
     ]
 }
