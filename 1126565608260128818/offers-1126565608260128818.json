@@ -28,5 +28,15 @@
             "priotity": 3,
             "bonus": "PO"
         }
+    ],
+    "Danny Green": [
+        {
+            "team": "WAS",
+            "money": 3000.0,
+            "through": 2022,
+            "score": 4.2838,
+            "priotity": 3,
+            "bonus": null
+        }
     ]
 }
