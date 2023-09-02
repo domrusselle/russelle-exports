@@ -8,5 +8,15 @@
             "priotity": 1,
             "bonus": null
         }
+    ],
+    "Jeremy Lamb": [
+        {
+            "team": "WAS",
+            "money": 17000.0,
+            "through": 2021,
+            "score": 40.5788,
+            "priotity": 2,
+            "bonus": null
+        }
     ]
 }
