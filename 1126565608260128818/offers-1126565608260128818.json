@@ -1,1 +1,12 @@
-{}
+{
+    "Kemba Walker": [
+        {
+            "team": "WAS",
+            "money": 18000.0,
+            "through": 2021,
+            "score": 44.0069,
+            "priotity": 1,
+            "bonus": null
+        }
+    ]
+}
